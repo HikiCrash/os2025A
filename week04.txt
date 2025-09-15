@@ -1,7 +1,8 @@
 +리눅스 명령어
 +
 +
+파일명
 깃 명령어
 git fetch
 git commit --amend -m "수정 할 커밋 메세지"
-git reset --hard HEAD~2 - 헤드2로 돌아가며 초기화
+git reset --hard HEAD~(1) - ()안에 최근부터 돌 아갈 커밋의 개수
