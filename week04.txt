@@ -1,3 +1,6 @@
++리눅스 명령어
++
++
 깃 명령어
 git fetch
 git commit --amend -m "수정 할 커밋 메세지"
