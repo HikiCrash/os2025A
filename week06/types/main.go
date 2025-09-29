@@ -3,10 +3,18 @@ package main
 import (
 	"fmt"
 	"math"
+	"reflect"
 	"strings"
 )
 
 func main() {
+	// var name string
+	// name = "Kim"
+
+	// var name = "Kim"
+
+	name := "Kim"
 	fmt.Println(math.Round(2.71))
 	fmt.Println(strings.Title("gohead first go"))
+	fmt.Println(name, reflect.TypeOf(name))
 }
