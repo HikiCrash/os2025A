@@ -8,6 +8,9 @@ import (
 )
 
 func main() {
+	// var name string,int,float64 > 0
+	// var a bool > False, (zero value.)
+
 	// var name string
 	// name = "Kim"
 
